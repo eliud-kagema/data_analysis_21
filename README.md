@@ -12,3 +12,14 @@
    Exploratory Data Analysis of Bike Sales Data
 
    *Libraries used: Pandas, Matplotlib*
+
+3. **Numpy Refresher**
+
+   Refresher repository on Numpy most common uses
+
+   *Libraries used: Numpy
+
+4. **Weather Analysis**
+
+   Weather Analysis notebook
+
