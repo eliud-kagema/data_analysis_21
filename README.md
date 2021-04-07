@@ -1,28 +1,34 @@
 **Data Analysis Personal Projects 2021**
 
 
-1. **Bike Sales Data Analysis**
+**Bike Sales Data Analysis**
 
-   Exploratory Data Analysis of Bike Sales Data
+Exploratory Data Analysis of Bike Sales Data
 
-   *Libraries used: Pandas, Matplotlib*
+*Libraries used: Pandas, Matplotlib*
 
 ![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
 
 
-1. **Sakila Database** 
+**Sakila Database** 
 
-   Exploratory Data Analysis of Bike Sales Data
+Exploratory Data Analysis of Bike Sales Data
 
-   *Libraries used: Pandas, Matplotlib*
+*Libraries used: Pandas, Matplotlib*
 
-2. **Numpy Refresher**
+![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
 
-   Refresher repository on Numpy most common uses
+**Numpy Refresher**
 
-   *Libraries used: Numpy
+Refresher repository on Numpy most common uses
 
-3. Weather Analysis
+*Libraries used: Numpy
 
-   Weather Analysis notebook
+![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
+
+Weather Analysis
+
+Weather Analysis notebook
+
+![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
 
