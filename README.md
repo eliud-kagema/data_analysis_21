@@ -7,19 +7,22 @@
 
    *Libraries used: Pandas, Matplotlib*
 
-2. **Sakila Database** 
+![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
+
+
+1. **Sakila Database** 
 
    Exploratory Data Analysis of Bike Sales Data
 
    *Libraries used: Pandas, Matplotlib*
 
-3. **Numpy Refresher**
+2. **Numpy Refresher**
 
    Refresher repository on Numpy most common uses
 
    *Libraries used: Numpy
 
-4. **Weather Analysis**
+3. Weather Analysis
 
    Weather Analysis notebook
 
