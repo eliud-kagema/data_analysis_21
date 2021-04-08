@@ -26,9 +26,12 @@ Refresher repository on Numpy most common uses
 
 ![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
 
-Weather Analysis
+**Weather Analysis**
 
 Weather Analysis notebook
 
 ![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
 
+**Udemy Courses Analysis****
+
+Analyzing courses offered by Udemy using pandas![green_divider](https://user-images.githubusercontent.com/8652642/113848708-6aaa3300-97a1-11eb-8dd0-e1c60c5ab0fc.png)
