@@ -1,7 +1,7 @@
 **Data Analysis Personal Projects 2021**
 
 
-**Bike Sales Data Analysis**
+**Bike Sales Data Analysis** 
 
 Exploratory Data Analysis of Bike Sales Data
 
